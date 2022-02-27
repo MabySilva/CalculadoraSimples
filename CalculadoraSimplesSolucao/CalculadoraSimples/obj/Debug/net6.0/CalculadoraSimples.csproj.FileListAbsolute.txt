@@ -1,0 +1,15 @@
+C:\Users\Mabile\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.exe
+C:\Users\Mabile\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.deps.json
+C:\Users\Mabile\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.runtimeconfig.json
+C:\Users\Mabile\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.dll
+C:\Users\Mabile\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\bin\Debug\net6.0\CalculadoraSimples.pdb
+C:\Users\Mabile\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.csproj.AssemblyReference.cache
+C:\Users\Mabile\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mabile\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.AssemblyInfoInputs.cache
+C:\Users\Mabile\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.AssemblyInfo.cs
+C:\Users\Mabile\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\Mabile\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.dll
+C:\Users\Mabile\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\refint\CalculadoraSimples.dll
+C:\Users\Mabile\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.pdb
+C:\Users\Mabile\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\CalculadoraSimples.genruntimeconfig.cache
+C:\Users\Mabile\source\repos\CalculadoraSimplesSolucao\CalculadoraSimples\obj\Debug\net6.0\ref\CalculadoraSimples.dll
